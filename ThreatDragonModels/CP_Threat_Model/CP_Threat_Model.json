@@ -204,6 +204,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Profile"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1.5,
@@ -216,7 +219,7 @@
             "zIndex": 4,
             "data": {
               "type": "tm.Process",
-              "name": "Process",
+              "name": "Profile",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -238,6 +241,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Payment\nMethods"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1.5,
@@ -249,7 +255,7 @@
             "id": "55d58aa3-eee2-4446-8d8a-ff915c278cb9",
             "data": {
               "type": "tm.Process",
-              "name": "Process",
+              "name": "Payment\nMethods",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -272,6 +278,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Bills"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1.5,
@@ -283,7 +292,7 @@
             "id": "3253a04e-ddb5-4ee1-9622-390355868651",
             "data": {
               "type": "tm.Process",
-              "name": "Process",
+              "name": "Bills",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -306,6 +315,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Transactions"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1.5,
@@ -317,7 +329,7 @@
             "id": "8127b679-3b35-4fc1-aa3d-d719a04cf3cb",
             "data": {
               "type": "tm.Process",
-              "name": "Process",
+              "name": "Transactions",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -378,7 +390,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Firewall"
+                "text": "Web App\nFirewall"
               },
               "body": {
                 "stroke": "#333333",
@@ -392,7 +404,7 @@
             "zIndex": 9,
             "data": {
               "type": "tm.Process",
-              "name": "Firewall",
+              "name": "Web App\nFirewall",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
